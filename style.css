@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    text-align: center;
+
+}
+
+.profile_pic{
+    width: 200px;
+    height: 200px;
+    
+}
+.container>ul {
+    text-align: start;
+}
+#education,h2{
+    text-align:center;
+}
+#education,ul{
+    text-align:start;
+}
+#head_page{
+    color: rgb(85, 128, 0);
+}
